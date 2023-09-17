@@ -1,0 +1,11 @@
+body{
+    background-color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: rgb(255, 218, 9);
+}
+.link-holder{
+    font-weight: bolder;
+}

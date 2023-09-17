@@ -1,0 +1,124 @@
+{
+  "links": [
+    {
+      "link": "https://github.com/pbatard/rufus",
+      "anchor": "Rufus | A USB Formatting Utility",
+      "category": "GitHub Repositories"
+    },
+    {
+      "link": "https://github.com/abishekvashok/cmatrix",
+      "anchor": "cmatrix | A fun Linux terminal program",
+      "category": "GitHub Repositories"
+    },
+    {
+      "link": "https://github.com/ocornut/imgui",
+      "anchor": "Dear ImGui | A bloat-free GUI for C++",
+      "category": "GitHub Repositories"
+    },
+    {
+      "link": "https://templeos.org",
+      "anchor": "TempleOS | A biblical-themed OS",
+      "category": "Programming"
+    },
+    {
+      "link": "https://pptr.dev",
+      "anchor": "Puppeteer | Write scripts to interact with Chrome browser [JavaScript]",
+      "category": "Programming"
+    },
+    {
+      "link": "https://github.com/id-Software/DOOM",
+      "anchor": "DOOM (1993) | The open source release ",
+      "category": "GitHub Repositories"
+    },
+    {
+      "link": "https://lukesmith.xyz",
+      "anchor": "Luke Smith's home page | A Linux and software minimalism enthusiast ",
+      "category": "Individuals"
+    },
+    {
+      "link": "https://worldometers.info",
+      "anchor": "Worldometer | Interesting and up-to-date data",
+      "category": "Misc"
+    },
+    {
+      "link": "https://www.virustotal.com",
+      "anchor": "VirusTotal | Submit files, urls, etc to confirm their safety",
+      "category": "Misc"
+    },
+    {
+      "link": "https://www.freecodecamp.org",
+      "anchor": "FreeCodeCamp | Free programming courses",
+      "category": "Programming"
+    },
+    {
+      "link": "https://regexone.com",
+      "anchor": "RegexOne | Learn regular expressions",
+      "category": "Linux"
+    },
+    {
+      "link": "https://www.languageguide.org",
+      "anchor": "LanguageGuide.org | Learn different languages",
+      "category": "Languages"
+    },
+    {
+      "link": "https://www.bitchute.com",
+      "anchor": "BitChute | A video hosting service",
+      "category": "Social Media"
+    },
+    {
+      "link": "https://rumble.com",
+      "anchor": "Rumble | An online video platform",
+      "category": "Social Media"
+    },
+    {
+      "link": "https://archive.org",
+      "anchor": "Wayback Machine | An archive for webpages",
+      "category": "Misc"
+    },
+    {
+      "link": "https://www.learncpp.com",
+      "anchor": "learncpp.com | A website for learning C++ ",
+      "category": "Programming"
+    },
+    {
+      "link": "https://kongregate.com/games/rudy_sudarto/epic-war-4",
+      "anchor": "Epic War 4 | A fun strategy game",
+      "category": "Video Games"
+    },
+    {
+      "link": "https://github.com/CaptainCluster",
+      "anchor": "CaptainCluster | My GitHub profile",
+      "category": "Individuals"
+    },
+    {
+      "link": "https://haveibeenpwned.com",
+      "anchor": "haveibeenpwned.com | Find out if your email address has been found in a data breach",
+      "category": "Misc"
+    },
+    {
+      "link": "https://linuxmint.com",
+      "anchor": "Linux Mint | A community-driven Linux distro ",
+      "category": "Linux"
+    },
+    {
+      "link": "https://kubuntu.org",
+      "anchor": "Kubuntu | Ubuntu that uses KDE Plasma as its desktop environment",
+      "category": "Linux"
+    },
+    {
+      "link": "https://www.openttd.org",
+      "anchor": "OpenTTD | A business simulation game",
+      "category": "Video Games"
+    },
+    {
+      "link": "https://www.battleon.com",
+      "anchor": "AdventureQuest | A singleplayer RPG",
+      "category": "Video Games"
+    },
+    {
+      "link": "https://artixlinux.org",
+      "anchor": "Artix Linux | A Linux rolling-release distro based on Arch Linux",
+      "category": "Linux"
+    }
+  ]
+}
