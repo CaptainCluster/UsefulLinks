@@ -119,6 +119,26 @@
       "link": "https://artixlinux.org",
       "anchor": "Artix Linux | A Linux rolling-release distro based on Arch Linux",
       "category": "Linux"
+    },
+    {
+      "link": "https://codesandbox.io",
+      "anchor": "CodeSandbox | A cloud development platform",
+      "category": "Programming"
+    },
+    {
+      "link": "https://app.diagrams.net",
+      "anchor": "draw.io | Draw diagrams",
+      "category": "Misc"
+    },
+    {
+      "link": "https://www.crazygames.com/game/territory-war",
+      "anchor": "Territory War | A nostalgic turn-based strategy game",
+      "category": "Video Games"
+    },
+    {
+      "link": "https://i3wm.org/docs/userguide.html",
+      "anchor": "Configuring i3 window manager",
+      "category": "Linux"
     }
   ]
 }
